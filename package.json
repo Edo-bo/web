@@ -1,0 +1,26 @@
+{
+  "name": "belajar-spa",
+  "version": "1.0.0",
+  "description": "A modern, interactive, and responsive single-page application for students to learn.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server --open=index.html",
+    "build": "echo 'Build process not defined yet.'",
+    "test": "echo 'No tests defined.'"
+  },
+  "keywords": [
+    "education",
+    "spa",
+    "learning",
+    "firebase",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
